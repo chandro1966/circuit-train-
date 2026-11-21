@@ -1,0 +1,6 @@
+{
+  "name": "Vallée du Viaduc — Réseau Ferroviaire Miniature 3D",
+  "description": "Simulation 3D interactive d'un grand réseau de modélisme ferroviaire avec trains passagers et marchandises, viaduc en pierre, pont métallique, tunnels, village, gare, aiguillage et passage à niveau animé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
